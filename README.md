@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Ankita!!👩‍💻
-#### Walking on the long road of success...💚😄
+
+🚶‍♀️Walking on the long road of success...💚😄
 ![github](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
 
 <img src="https://media.giphy.com/media/LkkXEHxadsaUzzH9Cu/giphy.gif"  width="70">*Trying to give my best to help the community through my projects..
@@ -38,4 +39,4 @@ I would love to hear you and your queries... I'll be glad if I could help you�
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankita-2331&hide_border=true" height="180em" />
 </p>
 
-
+![Profile views](https://gpvc.arturio.dev/Ankita-2331)
