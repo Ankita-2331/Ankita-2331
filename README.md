@@ -22,15 +22,20 @@ I would love to hear you and your queries... I'll be glad if I could help you�
 -⚡ Fun fact: *A new challenge keeps the brain kicking ✨and the heart ticking.💖*
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ankita-2331)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankita-kamboj-56936b19b/)  
-<h2>😃Top Languages</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita-2331)](https://github.com/anuraghazra/github-readme-stats)
-<h2>👀 GitHub Stats</h2>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankita-2331&show_icons=true)  
-<h2>😃Github Activity Graph</h2>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ankita-2331)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ankita-2331)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankita-kamboj-56936b19b/)  
+<p align="center">
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=Ankita-2331&show_icons=true&hide_border=true"
+    />
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita-2331&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+    />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankita-2331&hide_border=true" height="180em" />
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ankita-2331)  
-
-![Profile views](https://gpvc.arturio.dev/Ankita-2331)  rently learning ...
 
