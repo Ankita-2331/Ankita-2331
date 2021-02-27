@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ankita!!👩‍💻
 
-🚶‍♀️Walking on the long road of success...💚😄
+<h2>Walking on the long road of success...🚶‍♀️💚😄</h2>
 ![github](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
 
 <img src="https://media.giphy.com/media/LkkXEHxadsaUzzH9Cu/giphy.gif"  width="70">*Trying to give my best to help the community through my projects..
@@ -23,8 +23,7 @@ I would love to hear you and your queries... I'll be glad if I could help you�
 -⚡ Fun fact: *A new challenge keeps the brain kicking ✨and the heart ticking.💖*
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ankita-2331)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankita-kamboj-56936b19b/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ankita-2331) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankita-kamboj-56936b19b/)  
 <p align="center">
     <img
         height="180em"
