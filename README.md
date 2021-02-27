@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Ankita!!👩‍💻
 
 <h2>Walking on the long road of success...🚶‍♀️💚😄</h2>
+
 ![github](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
 
 <img src="https://media.giphy.com/media/LkkXEHxadsaUzzH9Cu/giphy.gif"  width="70">*Trying to give my best to help the community through my projects..
