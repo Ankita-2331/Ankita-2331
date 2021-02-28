@@ -19,7 +19,7 @@ I would love to hear you and your queries... I'll be glad if I could help you�
 <code><img height="38" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code><br>
 
 
--🌱 I’m currently learning -React
+-🌱 I’m currently learning -React Js
 
 -⚡ Fun fact: *A new challenge keeps the brain kicking ✨and the heart ticking.💖*
 
