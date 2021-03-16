@@ -15,11 +15,8 @@ I would love to hear you and your queries... I'll be glad if I could help you�
 <code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666250-e14ec600-eb18-11ea-81e4-59f2a65ff0aa.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" margin-top="10px"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="38" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code><br>
 
-
--🌱 I’m currently learning -React Js
 
 -⚡ Fun fact: *A new challenge keeps the brain kicking ✨and the heart ticking.💖*
 
